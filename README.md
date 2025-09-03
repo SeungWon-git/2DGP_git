@@ -21,7 +21,10 @@
 
 ## 📝 어려웠던 점
    
-### 싱크 맞추기
-
-### 스프라이트 이미지 자체제작
-
+### ⏱️ 싱크 맞추기
+-
+* 관련 코드: [pt체조 타이밍 체크](https://github.com/SeungWon-git/2DGP_git/blob/7dd94b6303096522e54bf435059827f82f0839ca/%EA%B8%B0%EB%A7%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%EB%93%AC%20%EC%82%AC%EB%82%98%EC%9D%B4/stage1.py#L856C9-L856C22)
+  
+### 🎨🖌️ 스프라이트 이미지 자체제작
+-
+* 관련 코드: [Resource 폴더](https://github.com/SeungWon-git/2DGP_git/tree/7dd94b6303096522e54bf435059827f82f0839ca/%EA%B8%B0%EB%A7%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%EB%93%AC%20%EC%82%AC%EB%82%98%EC%9D%B4/res)
