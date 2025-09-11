@@ -1,4 +1,4 @@
-# 🎵 Rythm Macho!
+# 🎵 Rhythm Macho!
 
 ## 🎮 개요
  - 게임 장르: 캐주얼 리듬 게임
