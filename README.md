@@ -13,7 +13,7 @@
    > + **사운드**(배경음, 효과음), 다시도전 기능
  - 개발에 사용된 기술 스택:
    + Python
- - 시연 영상: [▶️ 유투브 영상 보기](https://www.youtube.com/)
+ - 시연 영상: [▶️ 유투브 영상 보기](https://youtu.be/rHTtmvxiylg)
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/09c80e7f-58a3-4953-9eec-f3c45f015a85" />
 
 
